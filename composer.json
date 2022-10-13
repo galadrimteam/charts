@@ -1,11 +1,11 @@
 {
-    "name": "consoletvs/charts",
+    "name": "galadrim/charts",
     "description": "Create charts for laravel using diferent charts libraries",
     "license": "MIT",
     "authors": [
         {
-            "name": "Erik Campobadal",
-            "email": "soc@erik.cat"
+            "name": "Thomas Hallot",
+            "email": "thomas@galadrim.fr"
         }
     ],
     "require": {
